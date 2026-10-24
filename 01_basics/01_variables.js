@@ -5,7 +5,7 @@ accountCity = "Kota"
 
 /*
 accountId = 7654321 // this will throw error
-console.log(accountId)
+console.log(accountId) 
 */
 
 accountEmail = "sk@cdac.in"
