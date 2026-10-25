@@ -43,6 +43,40 @@ let stringNumber = String(someNumber)
 
 // *********************** Operations ***********************
 
+let val = 3
+let negValue = -val
+//console.log(negValue);
 
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
 
+let str1 = "Hello "
+let str2 = "Shiv"
+let str3 = str1 + str2
+// console.log(str3);
+// console.log(str1 + str2);
+
+// console.log("1" + 2); // 12
+// console.log(1 + "2"); // 12
+// console.log("1" + "2"); // 12
+// console.log("1" + 2 + 2); // 122
+// console.log(1 + 2 + "2"); // 32
+// console.log(true); // true
+// console.log(+true); // 1
+// console.log(true+); // Error
+// console.log(""); // nothing will print
+// console.log(+""); // 0
+
+let a = 3
+let b = a++
+let c = ++a
+// console.log(b); // 3
+// console.log(c); // 5
+
+// link to study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
 
